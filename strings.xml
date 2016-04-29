@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+   <string name="app_name">Stress Management</string>
+   <string name="wind_down">I found it hard to wind down</string>
+   <string name="over_react">I tended to over-react to situations</string>
+   <string name="nervous_energy">I felt that I was using a lot of nervous energy</string>
+   <string name="agitated">I found myself getting agitated</string>
+   <string name="relax">I found it difficult to relax</string>
+   <string name="intolerant">I was intolerant of anything that kept me from getting on with what I was doing</string>
+   <string name="touchy">I felt that I was rather touchy</string>
+   <string name="not_applicable">Did not apply to me at all</string>
+   <string name="some_degree">Applied to me to some degree, or some of the time</string>
+   <string name="considerable_degree">Applied to me to a considerable degree, or a good part of time</string>
+   <string name="high_degree">Applied to me very much, or most of the time</string>
+
+   <string name="main_title">Live Stress Free</string>
+   <string name="menu">Main Menu</string>
+   <string name="results">Results</string>
+   <string name="add_result">Result Entry</string>
+   <string name="new_label">Stress Test</string>
+   <string name="log_label">Stress Diary</string>
+   <string name="return_label">Return to Main Menu</string>
+   <string name="strategies_label">Self-care Plan</string>
+   <string name="about_label">About</string>
+
+   <string name="q1">1 of 7</string>
+   <string name="q2">2 of 7</string>
+   <string name="q3">3 of 7</string>
+   <string name="q4">4 of 7</string>
+   <string name="q5">5 of 7</string>
+   <string name="q6">6 of 7</string>
+   <string name="q7">7 of 7</string>
+
+   <string name="about_text">
+   This application is designed to help the user manage their stress levels
+       through a feedback loop facilitated by the user\'s answers to a quiz. After determining your
+       stress levels by taking the survey, use the stress diary to identify and record your stressors and symptoms.
+       Then use the Self-Care plan to develop a plan of action for alleviating the affects of your
+       stressors. Created for Software-Hardware Codesign course at FAU, spring 2016, Dr. Shankar.
+       Created by Alex Achenbach and Dimitri DeBarnes, with input and consultation from
+       Thisha Glover.
+   </string>
+
+    <string name="results_text">
+       Normal: 0-14\n
+       Mild: 15-18\n
+       Moderate: 19-25\n
+       Severe: 26-33\n
+       Extremely Severe: 34+\n\n
+
+       Based on the result of the user\'s answers and given the scale above, this page is where a specific recommendation
+       will be given to the user telling them whether they are stressed or not, to what degree they are stressed, and what steps
+       they can take to alleviate it.
+   </string>
+
+   <string name="sources">Stressors</string>
+   <string name="symptoms">Symptoms of Stress</string>
+   <string name="notes">Additional Notes</string>
+   <string name="entry_text">
+
+   Click on each category below (Stressors, Symptoms, and Additional Notes) to add some information about how you are feeling
+       today. This information will be saved with your results from the previous page, so that you can get a sense of what
+       your personal common stressors and symptoms are. This will allow you to create an action plan to lower your overall
+       stress.
+
+   </string>
+    <string name="diary_button">Add Diary Entry</string>
+    <string name="test_score_placeholder">Test Score</string>
+    <string name="submit_to_diary">Submit Entry to Diary</string>
+    <string name="textV_id">id</string>
+    <string name="textV_date">date</string>
+    <string name="textV_stress">stress</string>
+    <string name="textV_sources">sources</string>
+    <string name="textV_symptoms">symptoms</string>
+    <string name="textV_notes">notes</string>
+
+
+</resources>
